@@ -37,6 +37,8 @@ if "logged_in" not in st.session_state:
     st.session_state.user_phone = ""
     st.session_state.profile_image_url = ""
 
+#좆됐당
+
 # ---------------------
 # 홈 페이지 클래스
 # ---------------------
